@@ -1,0 +1,14 @@
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.exe
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.deps.json
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
